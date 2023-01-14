@@ -1,0 +1,3 @@
+[submodule "usb_descriptor"]
+	path = usb_descriptor
+	url = https://github.com/adafruit/usb_descriptor.git
